@@ -30,7 +30,7 @@ SECRET_KEY = config('SECRET_KEY')
 #DEBUG = config('DEBUG', default=False, cast=bool)
 DEBUG = True
 
-ALLOWED_HOSTS = ['pontos-turisticos-gleyson.herokuapp.com/', 'localhost']
+ALLOWED_HOSTS = ['pontos-turisticos-gleyson.herokuapp.com', 'localhost']
 
 
 # Application definition
